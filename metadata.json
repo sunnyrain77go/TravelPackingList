@@ -1,0 +1,5 @@
+{
+  "name": "旅人行李清單 (Traveler's Packing List)",
+  "description": "一個日系簡約風格的智慧行李清單工具，根據目的地、天數、天氣與活動動態生成清單，並自動儲存進度。",
+  "requestFramePermissions": []
+}

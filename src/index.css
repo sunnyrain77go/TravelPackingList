@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Noto+Sans+TC:wght@300;400;500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-sage-50: #f4f7f1;
+  --color-sage-100: #e6ede0;
+  --color-sage-200: #d1dec6;
+  --color-sage-300: #b2c5a3;
+  --color-sage-400: #8fa87d;
+  --color-sage-500: #718b5e;
+  --color-sage-600: #586d49;
+  --color-sage-700: #45553b;
+  --color-sage-800: #394531;
+  --color-sage-900: #313b2b;
+  --color-sage-950: #1a2016;
+
+  --font-sans: "Inter", "Noto Sans TC", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
