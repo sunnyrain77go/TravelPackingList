@@ -86,7 +86,7 @@ const DESTINATION_ITEMS: Record<Destination, PackingItem[]> = {
   ],
   camping: [
     { id: 'd2', category: CATEGORIES.OTHERS, name: '睡袋/枕頭/床墊床包' },
-    { id: 'd3', category: CATEGORIES.OTHERS, name: '腳架/露營燈' },
+    { id: 'd3', category: CATEGORIES.OTHERS, name: '腳架/露營燈/手電筒' },
     { id: 'd4', category: CATEGORIES.OTHERS, name: '防蚊液止癢藥' },
     { id: 'd5', category: CATEGORIES.OTHERS, name: '桌椅/RV桶' },
     { id: 'd13', category: CATEGORIES.OTHERS, name: '垃圾袋/抹布' },
