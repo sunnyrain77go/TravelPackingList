@@ -77,7 +77,8 @@ const BASE_ITEMS: PackingItem[] = [
   { id: 'med3', category: CATEGORIES.MEDICINE, name: '消炎藥' },
   { id: 'med4', category: CATEGORIES.MEDICINE, name: '眼藥膏' },
   { id: 'med5', category: CATEGORIES.MEDICINE, name: '眼藥水' },
-  { id: 'med6', category: CATEGORIES.MEDICINE, name: '普拿疼過敏藥鼻水藥' },
+  { id: 'med6', category: CATEGORIES.MEDICINE, name: '普拿疼 過敏藥 鼻水藥' },
+  { id: 'med7', category: CATEGORIES.MEDICINE, name: '止癢藥' },
 ];
 
 const DESTINATION_ITEMS: Record<Destination, PackingItem[]> = {
